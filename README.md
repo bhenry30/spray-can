@@ -29,7 +29,7 @@
 
 ## Description
 
-A social media website made to keep track of the ever changing street art around our favorite cities. Designed to bring together artists and street art fans from around the world, this app creates an envirment for poeple to share current street art pictures and tag its' location. This site was built using the MVC paradigm in its architectural structure and uses Handlebars.js as the templating language, all while leveraging Leaflet and Multer to bring this app to life.
+A social media website made to keep track of the ever changing street art around our favorite cities. Designed to bring together artists and street art fans from around the world, this app creates an environment for users to share current street art photos and tag their location. This site was built using the MVC paradigm in its architectural structure and uses Handlebars.js as the templating language, all while leveraging Leaflet and Multer to bring this app to life.
 
 
 ## Table of Contents 
