@@ -66,4 +66,4 @@ This project is using the [Contributor Covenant](https://www.contributor-covenan
 To test this app follow the instructions above. Open in VS code and play around with different README templates.
 
 ## Questions
-Reach out via my [Github Profile](https://github.com/jonathanprill)
+Reach out via my [Github Profile](https://github.com/bhenry30)
