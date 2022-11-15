@@ -29,7 +29,7 @@
 
 ## Description
 
-A social media website made to keep track of the ever changing street art around our favorite cities. Designed to bring together artists and street art fans from around the world, this app creates an environment for users to share current street art photos and tag their location. This site was built using the MVC paradigm in its architectural structure and uses Handlebars.js as the templating language, all while leveraging Leaflet and Multer to bring this app to life.
+A social media website made to keep track of the ever-changing street art around our favorite cities. Designed to bring together artists and street art fans from around the world, this app creates an environment for users to share current street art photos and tag their location. This site was built using the MVC paradigm in its architectural structure and uses Handlebars.js as the templating language, all while leveraging Leaflet and Multer to bring the app to life.
 
 
 ## Table of Contents 
@@ -43,13 +43,13 @@ A social media website made to keep track of the ever changing street art around
 
 ## Installation
 
-If you want to run this app on your local machine you can clone or download the zip file from github. Install Node and MySQL if you do not already have them. In the root directory, create a .env file with your mySQL credentials. Then in your terminal type 'npm install' and press enter. You are now all set to use the app!
+If you want to run this app on your local machine, you can clone or download the zip file from github. Install Node and MySQL if you do not already have them. In the root directory, create an .env file with your MySQL credentials. Then in your terminal type 'npm install' and press enter. You are now all set to use the app!
 
 ## Usage
 
 ![ScreenShot](/assets/images/Homepage_screenshot.png "screenshot")
 
-To get the best experience, go to the deployed site linked above. Make an account and create you first post. Spend a few minutes browsing around our map feature. Don't forget to collaborate!
+To get the best experience, go to the deployed site linked above. Create an account and make your first post. Spend a few minutes browsing around our map feature.
 
 ## License
 
